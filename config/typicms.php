@@ -61,12 +61,12 @@ return [
     |
     */
     'search' => [
-        // 'news' => [
-        //     'model' => 'TypiCMS\Modules\News\Models\News',
-        //     'columns' => [
-        //         'title',
-        //         'body',
-        //     ],
-        // ],
+        'news' => [
+            'model' => 'TypiCMS\Modules\News\Models\News',
+            'columns' => [
+                'title',
+                'body',
+            ],
+        ],
     ],
 ];

@@ -4,5 +4,7 @@ return [
     'fr' => 'Frans',
     'es' => 'Spaans',
     'nl' => 'Nederlands',
-    'en' => 'Engels',
+    'en' => 'English',
+    "zh-cn"=> 'chinese',
+
 ];

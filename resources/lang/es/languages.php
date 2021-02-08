@@ -5,4 +5,6 @@ return [
     'es' => 'Español',
     'nl' => 'Holandés',
     'en' => 'Inglés',
+    "zh-CN"=> '中文',
+
 ];

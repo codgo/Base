@@ -79,7 +79,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'zh-cn',
 
     /*
     |--------------------------------------------------------------------------
@@ -92,7 +92,7 @@ return [
     |
     */
 
-    'fallback_locale' => 'en',
+    'fallback_locale' => 'zh-cn',
 
     /*
     |--------------------------------------------------------------------------
@@ -105,7 +105,7 @@ return [
     |
     */
 
-    'faker_locale' => 'en_US',
+    'faker_locale' => 'zh-cn',
 
     /*
     |--------------------------------------------------------------------------
@@ -180,7 +180,6 @@ return [
         TypiCMS\Modules\Sitemap\Providers\ModuleServiceProvider::class,
         TypiCMS\Modules\Tags\Providers\ModuleServiceProvider::class,
         TypiCMS\Modules\Search\Providers\ModuleServiceProvider::class,
-       // TypiCMS\Modules\News\Providers\ModuleServiceProvider::class,
         TypiCMS\Modules\Cats\Providers\ModuleServiceProvider::class,
 
 
