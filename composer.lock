@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5f591cbfef0cc0bd565eb1cad0c0b532",
+    "content-hash": "907c7c936eb11ed52531d76114921667",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -6937,6 +6937,58 @@
                 }
             ],
             "time": "2021-01-25T14:49:06+00:00"
+        },
+        {
+            "name": "typicms/events",
+            "version": "9.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TypiCMS/Events.git",
+                "reference": "502a320d2c72df698d57e89f65ba7824c3766a7d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TypiCMS/Events/zipball/502a320d2c72df698d57e89f65ba7824c3766a7d",
+                "reference": "502a320d2c72df698d57e89f65ba7824c3766a7d",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "eluceo/ical": "^0.16",
+                "laravel/framework": "~8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "TypiCMS\\Modules\\Events\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Samuel De Backer",
+                    "email": "sdebacker@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/TypiCMS/Events/issues",
+                "source": "https://github.com/TypiCMS/Events/tree/9.0.2"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/typicms",
+                    "type": "github"
+                }
+            ],
+            "time": "2021-02-06T20:07:21+00:00"
         },
         {
             "name": "typicms/files",

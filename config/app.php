@@ -180,7 +180,9 @@ return [
         TypiCMS\Modules\Sitemap\Providers\ModuleServiceProvider::class,
         TypiCMS\Modules\Tags\Providers\ModuleServiceProvider::class,
         TypiCMS\Modules\Search\Providers\ModuleServiceProvider::class,
-        TypiCMS\Modules\Cats\Providers\ModuleServiceProvider::class,
+        TypiCMS\Modules\Downloads\Providers\ModuleServiceProvider::class,
+        TypiCMS\Modules\Partners\Providers\ModuleServiceProvider::class,
+        TypiCMS\Modules\Projects\Providers\ModuleServiceProvider::class,
 
 
         /*

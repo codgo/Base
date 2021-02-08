@@ -47,6 +47,7 @@
         "typicms/blocks": "~9.0.0",
         "typicms/core": "~9.0.0",
         "typicms/dashboard": "~9.0.0",
+        "typicms/events": "^9.0",
         "typicms/files": "~9.0.0",
         "typicms/history": "~9.0.0",
         "typicms/laravel-translatable-bootforms": "^6.0",
@@ -59,7 +60,7 @@
         "typicms/search": "~9.0.0",
         "typicms/settings": "~9.0.0",
         "typicms/sitemap": "~9.0.0",
-        "typicms/tags": "~9.0.0",
+        "typicms/tags": "^9.0",
         "typicms/translations": "~9.0.0",
         "typicms/users": "~9.0.0",
         "typidesign/laravel-artisan-translations": "~1.0.3"
