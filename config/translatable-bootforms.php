@@ -10,7 +10,7 @@ return [
     | Array of available locales
     |
     */
-    'locales' => ['fr', 'nl', 'en'],
+    'locales' => ['fr', 'nl', 'en', 'zh-cn'],
 
     /*
     |--------------------------------------------------------------------------
